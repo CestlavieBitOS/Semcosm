@@ -60,7 +60,7 @@ Semcosm/
 
 ## Documentation Areas
 
-- `docs/architecture/`: system architecture diagrams, module boundaries, and structural views
+- `docs/architecture/`: system architecture diagrams, module boundaries, structural views, and project-wide design standards such as SOSP
 - `docs/adr/`: Architecture Decision Records
 - `docs/glossary/`: project terminology such as stream, record, ref, and owner
 - `docs/protocols/`: external interfaces, protocol definitions, and serialization conventions
