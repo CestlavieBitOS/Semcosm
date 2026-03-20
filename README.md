@@ -66,6 +66,10 @@ Semcosm/
 - `docs/protocols/`: external interfaces, protocol definitions, and serialization conventions
 - `docs/notes/`: drafts, derivations, and research notes
 
+## Key Documents
+
+- `docs/architecture/SOSP.md`: Structured Object Specification Paradigm (SOSP), the project-wide object specification and documentation governance standard
+
 ## Working Rules
 
 Keep new project content inside the existing top-level directories unless there is a strong structural reason to add another root entry.
